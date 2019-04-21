@@ -1,4 +1,4 @@
-### Hyperledger Fabric Setup on three Hosts
+### Hyperledger Fabric Setup on Three Machines
 (Adapted from Hyperledger Fabric [fabcar tutorial](https://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html))
 and [this online tutorial](https://medium.com/1950labs/setup-hyperledger-fabric-in-multiple-physical-machines-d8f3710ed9b4)
 
@@ -20,4 +20,4 @@ Each of the folders pharma-company-network, hospital-network and research-lab-ne
 
 On each machine, direct into to `network` folder and run
 
-`start--XX.sh` to start the Hyperledger Fabric services in docker containers.
+`start--XX.sh` in order to start the Hyperledger Fabric services in docker containers.
